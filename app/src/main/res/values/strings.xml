@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">May Tinh</string>
+    <string name="nh_p_s_b">Nhập số b</string>
+    <string name="nh_p_s_a">Nhập số a</string>
+    <string name="m_y_t_nh">Máy Tính</string>
+    <string name="margin">15ds</string>
+</resources>
